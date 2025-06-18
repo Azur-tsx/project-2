@@ -6,7 +6,7 @@ L’objectif est de **transformer vos maquettes Figma** en une première version
 
 ## 🧭 Contexte du projet
 
-> Vous venez d’être intégré·e·s à une équipe front-end. Le designer vous a transmis les maquettes validées par le client, et vous êtes chargé·e d’en faire une première version web. Pour faciliter le travail en équipe, l’entreprise utilise **React** comme framework front-end.
+> Vous venez d’être intégré à une équipe front-end. Le designer vous a transmis les maquettes validées par le client, et vous êtes chargé d’en faire une première version web. Pour faciliter le travail en équipe, l’entreprise utilise **React** comme framework front-end.
 
 ## 👩‍💻 **Compétences du référentiel visées**
 
