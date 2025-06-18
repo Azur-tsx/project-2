@@ -1,4 +1,4 @@
-#⚛️ Intégration web avec React
+# ⚛️ Intégration web avec React
 
 ## 🎯 Objectif pédagogique
 
