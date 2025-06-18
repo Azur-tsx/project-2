@@ -45,10 +45,6 @@ L’objectif est de **transformer vos maquettes Figma** en une première version
   * Les fichiers CSS
   * Un README avec instructions d’installation
 * Un lien vers le **site déployé** (Netlify, Vercel ou autre)
-* Un fichier PDF avec :
-
-  * L’URL du projet
-  * 1 capture d’écran par page intégrée
 
 ---
 
