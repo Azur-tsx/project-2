@@ -4,14 +4,20 @@
 
 L’objectif est de **transformer vos maquettes Figma** en une première version **fonctionnelle en React**, en appliquant les bases du composant, du JSX, et du routage simple.
 
+---
+
 ## 🧭 Contexte du projet
 
 > Vous venez d’être intégré à une équipe front-end. Le designer vous a transmis les maquettes validées par le client, et vous êtes chargé d’en faire une première version web. Pour faciliter le travail en équipe, l’entreprise utilise **React** comme framework front-end.
+
+---
 
 ## 👩‍💻 **Compétences du référentiel visées**
 
 * **C1** : Développer une interface utilisateur web dynamique — niveau 2
 * **C2** : Réaliser une interface utilisateur web statique et adaptable — niveau 2
+
+---
 
 ## 📚 Modalités pédagogiques
 
@@ -29,6 +35,8 @@ L’objectif est de **transformer vos maquettes Figma** en une première version
 
 5 jours ouvrés
 
+---
+
 ## 📦 **Livrables attendus**
 
 * Le dépôt GitHub contenant :
@@ -42,6 +50,8 @@ L’objectif est de **transformer vos maquettes Figma** en une première version
   * L’URL du projet
   * 1 capture d’écran par page intégrée
 
+---
+
 ## ✅ **Critères de performance**
 
 | Critère         | Description                                    |
@@ -53,12 +63,16 @@ L’objectif est de **transformer vos maquettes Figma** en une première version
 | 🌐 Déploiement  | Le site est accessible en ligne                |
 | 🔀 Navigation   | Le routage est fonctionnel                     |
 
+---
+
 ## 🔗 **Ressources utiles**
 
 * [Documentation React (FR)](https://fr.react.dev/)
 * [Vite.js](https://vitejs.dev/)
 * [Netlify](https://app.netlify.com)
 * [React Router](https://reactrouter.com/en/main)
+
+---
 
 ## ✍️ Auteurs / contributeurs
 
