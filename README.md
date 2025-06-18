@@ -21,13 +21,13 @@ L’objectif est de **transformer vos maquettes Figma** en une première version
 2. **Créer une arborescence claire** (`components/`, `pages/`)
 3. **Traduire vos maquettes** en structure HTML/CSS dans des composants React
 4. **Ajouter du style CSS** (global ou scoped via modules)
-5. **Gérer la navigation** entre vos pages avec `react-router-dom`
-6. **Rendre le site responsive** (grilles, media queries)
+5. **Gérer la navigation** entre vos pages avec `react-router-dom` (si applicable)
+6. **Rendre le site responsive**
 7. **Valider l’accessibilité** (balises sémantiques, contrastes, etc.)
 
 ### 🗓️ **Deadline**
 
-2 jours ouvrés
+5 jours ouvrés
 
 ## 📦 **Livrables attendus**
 
